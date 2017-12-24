@@ -1,0 +1,39 @@
+#######################################
+# Syntax Coloring Map For MAX7219
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MAX7219	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setX	KEYWORD2
+getX	KEYWORD2
+update	KEYWORD2
+setIntensity	KEYWORD2
+setScanLimit	KEYWORD2
+setLineIndex	KEYWORD2
+getLineIndex	KEYWORD2
+drawFromFlash	KEYWORD2
+drawFromFlash	KEYWORD2
+write			KEYWORD2
+isOutOfScreen	KEYWORD2
+addChar 	KEYWORD2
+noDecode	KEYWORD2
+decode		KEYWORD2
+shutDown	KEYWORD2
+wakeUp		KEYWORD2
+clearScreen		KEYWORD2
+testDisplay		KEYWORD2
+noTestDisplay	KEYWORD2
+resetBuffer		KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
